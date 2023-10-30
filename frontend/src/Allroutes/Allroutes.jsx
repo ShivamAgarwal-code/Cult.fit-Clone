@@ -29,7 +29,7 @@ export const Allroutes = ({ setc }) => {
           </ProtectedRoute>
        
         } />
-        <Route path="/doctor" element={<Dcotors setc={setc} />} />
+{/*         <Route path="/doctor" element={<Dcotors setc={setc} />} /> */}
         <Route path="/admin" element={<Admin setc={setc} />} />
         <Route path="/details/:id" element={<TestSinglePage setc={setc} />} />
         <Route
