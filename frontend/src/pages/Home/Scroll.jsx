@@ -5,9 +5,9 @@ import "aos/dist/aos.css";
  
 import { Toppage } from "./Top_page";
 import { Pass } from "./pass";
-import { CarePass } from "./CarePass";
-import { Elements } from "./elements";
-import {Crouser} from "./Crouser";
+// import { CarePass } from "./CarePass";
+// import { Elements } from "./elements";
+// import {Crouser} from "./Crouser";
 import styles from "./c.module.css"
 import { TextAnimation } from "./TextAnimation";
 
@@ -137,13 +137,13 @@ export const Scroll = () => {
          </div>
 
  
-         <CarePass/>
+{/*          <CarePass/>
 
          <Elements/>  
           
           <div className={styles.crouser}>
             <Crouser/>
-          </div>
+          </div> */}
       </div>
     </div>
   );
