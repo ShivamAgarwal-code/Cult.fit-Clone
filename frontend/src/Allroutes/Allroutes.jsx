@@ -6,7 +6,7 @@ import { Home } from "../pages/Home/Home";
 import Mind from "../pages/mind";
 import TestSinglePage from "../pages/testSinglePage";
 import Admin from "../pages/Admin";
-import Dcotors from "../pages/Dcotors";
+// import Dcotors from "../pages/Dcotors";
 import MindSinglePage from "../components/mind/MindSinglePage";
 import Cart from "../pages/Cart";
 import ProtectedRoute from "../PrivateRoute/ProtectedRoute";
