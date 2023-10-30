@@ -21,7 +21,7 @@ export const TextAnimation = () => {
   </ScrollPage>
   <ScrollPage>
     <Animator animation={ZoomInScrollOut}>
-      <span style={{ fontSize: "40px" }}>Fun, trainer led group classes</span>
+      <span style={{ fontSize: "40px" }}>cultpass</span>
     </Animator>
   </ScrollPage>
   <ScrollPage>
