@@ -21,12 +21,12 @@ export const TextAnimation = () => {
   </ScrollPage>
   <ScrollPage>
     <Animator animation={ZoomInScrollOut}>
-      <span style={{ fontSize: "40px" }}>cultpass</span>
+      <span style={{ fontSize: "40px" }}>One membership for all your fitness needs</span>
     </Animator>
   </ScrollPage>
   <ScrollPage>
     <Animator animation={FadeUp}>
-      <span style={{ fontSize: "40px" }}>One membership for all your fitness needs </span>
+      <span style={{ fontSize: "40px" }}>cultpass </span>
     </Animator>
   </ScrollPage>
   
